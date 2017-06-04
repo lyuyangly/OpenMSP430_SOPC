@@ -1,0 +1,2 @@
+Map: -convert_bram8
+BitGen: -g INIT_9K:Yes

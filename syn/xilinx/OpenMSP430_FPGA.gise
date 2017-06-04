@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="OpenMSP430_FPGA.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="../../rtl/xilinx/coregen.log"/>
+    <file xil_pn:fileType="FILE_COREGEN_MISC" xil_pn:name="../../rtl/xilinx/rom16x2048.mif" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="../../rtl/xilinx/rom16x2048.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="OpenMSP430_FPGA.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="OpenMSP430_FPGA.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="OpenMSP430_FPGA.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_IMPACT_MISC" xil_pn:name="OpenMSP430_FPGA.mcs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="OpenMSP430_FPGA.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="OpenMSP430_FPGA.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="OpenMSP430_FPGA.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="OpenMSP430_FPGA.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="OpenMSP430_FPGA.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="OpenMSP430_FPGA.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="OpenMSP430_FPGA.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="OpenMSP430_FPGA.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_IMPACT_MISC" xil_pn:name="OpenMSP430_FPGA.prm"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="OpenMSP430_FPGA.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="OpenMSP430_FPGA.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="OpenMSP430_FPGA.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="OpenMSP430_FPGA.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="OpenMSP430_FPGA.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="OpenMSP430_FPGA.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="OpenMSP430_FPGA.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="OpenMSP430_FPGA.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="OpenMSP430_FPGA.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="OpenMSP430_FPGA_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="OpenMSP430_FPGA_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="OpenMSP430_FPGA_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="OpenMSP430_FPGA_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="OpenMSP430_FPGA_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="OpenMSP430_FPGA_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="OpenMSP430_FPGA_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="OpenMSP430_FPGA_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="OpenMSP430_FPGA_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="OpenMSP430_FPGA_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="OpenMSP430_FPGA_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="OpenMSP430_FPGA_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="OpenMSP430_FPGA_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="OpenMSP430_FPGA_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="OpenMSP430_FPGA_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="_impactbatch.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD" xil_pn:name="ise_impact.cmd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="openmsp430_fpga.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="openmsp430_fpga.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="openmsp430_fpga.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="planAhead_run_1"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="planAhead_run_2"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="planAhead_run_3"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="usage_statistics_webtalk.html"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1418277205" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1418277205">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418277205" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="7417658210020995563" xil_pn:start_ts="1418277205">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279145" xil_pn:in_ck="3485111876334368326" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="956124078392161402" xil_pn:start_ts="1420279145">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../../rtl/xilinx/ram16x512.ngc"/>
+      <outfile xil_pn:name="../../rtl/xilinx/ram16x512.v"/>
+      <outfile xil_pn:name="../../rtl/xilinx/rom16x2048.ngc"/>
+      <outfile xil_pn:name="../../rtl/xilinx/rom16x2048.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1418277206" xil_pn:in_ck="-5515480654229351932" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1418277206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418277206" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="1237418382079950253" xil_pn:start_ts="1418277206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418277206" xil_pn:in_ck="-5515480654229351932" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1106364426758808884" xil_pn:start_ts="1418277206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1418277206" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-8266416752104766908" xil_pn:start_ts="1418277206">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279193" xil_pn:in_ck="-1537970411463312456" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-1624058760813550583" xil_pn:start_ts="1420279145">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.lso"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.ngc"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.ngr"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.prj"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.stx"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.syr"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.xst"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1420277119" xil_pn:in_ck="-7420143182283294494" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="9038462355076577496" xil_pn:start_ts="1420277119">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279202" xil_pn:in_ck="-8039913068514274080" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="1124074458578510459" xil_pn:start_ts="1420279193">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.bld"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.ngd"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279264" xil_pn:in_ck="-8805008308782308001" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="5342010926770655622" xil_pn:start_ts="1420279202">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.pcf"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_map.map"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_map.mrp"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_map.ncd"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_map.ngm"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_map.xrpt"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_summary.xml"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279317" xil_pn:in_ck="4584342730139671512" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-1178055513630676559" xil_pn:start_ts="1420279264">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.ncd"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.pad"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.par"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.ptwx"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.unroutes"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.xpi"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_pad.csv"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_pad.txt"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279350" xil_pn:in_ck="-7420143182283302119" xil_pn:name="TRANEXT_bitFile_spartan6" xil_pn:prop_ck="5341574683187206424" xil_pn:start_ts="1420279322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.ut"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="openmsp430_fpga.bgn"/>
+      <outfile xil_pn:name="openmsp430_fpga.bit"/>
+      <outfile xil_pn:name="openmsp430_fpga.drc"/>
+      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279386" xil_pn:in_ck="5937082801777321443" xil_pn:name="TRAN_impactProgrammingTool" xil_pn:prop_ck="2682241697568822907" xil_pn:start_ts="1420279386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputRemoved"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.prm"/>
+      <outfile xil_pn:name="_impactbatch.log"/>
+      <outfile xil_pn:name="ise_impact.cmd"/>
+    </transform>
+    <transform xil_pn:end_ts="1418277471" xil_pn:in_ck="5937082801777321443" xil_pn:name="TRAN_configureTargetDevice" xil_pn:prop_ck="8482462020707587906" xil_pn:start_ts="1418277459">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1420272256" xil_pn:in_ck="5937082801777321443" xil_pn:name="TRAN_genImpactFile" xil_pn:prop_ck="-7047989797201823252" xil_pn:start_ts="1420272256">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1420206793" xil_pn:in_ck="7686404618984029019" xil_pn:name="TRAN_fpgaFloorplanPostPAR" xil_pn:start_ts="1420206793">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1420279317" xil_pn:in_ck="7686404618984029019" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1420279298">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.twr"/>
+      <outfile xil_pn:name="OpenMSP430_FPGA.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

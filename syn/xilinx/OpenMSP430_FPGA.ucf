@@ -1,0 +1,21 @@
+# Clock 
+NET clk LOC = V10 | IOSTANDARD = "LVCMOS33" | TNM_NET = clk;
+TIMESPEC TS_clk = PERIOD clk 50 MHz;
+
+NET rst_pin     LOC = N4 | IOSTANDARD = "LVCMOS18"; ##pushbutton
+NET p1_out<0>    LOC = T10 | IOSTANDARD = "LVCMOS33";       ## LED1
+NET p1_out<1>    LOC = N10 | IOSTANDARD = "LVCMOS33";       ## LED2
+NET p1_out<2>    LOC = T12 | IOSTANDARD = "LVCMOS33";       ## LED3
+NET p1_out<3>    LOC = R10 | IOSTANDARD = "LVCMOS33";       ## LED4
+NET p1_out<4>   IOSTANDARD = "LVCMOS33";       ## LED5
+NET p1_out<5>   IOSTANDARD = "LVCMOS33";       ## LED6
+NET p1_out<6>   IOSTANDARD = "LVCMOS33";       ## LED7
+NET p1_out<7>   IOSTANDARD = "LVCMOS33";       ## LED8
+NET p1_in<0>    LOC = P4 | IOSTANDARD = "LVCMOS18";        ## KEY1
+NET p1_in<1>    LOC = F6 | IOSTANDARD = "LVCMOS18";        ## KEY2
+NET p1_in<2>    LOC = E4 | IOSTANDARD = "LVCMOS18";        ## KEY3
+NET p1_in<3>    LOC = F5 | IOSTANDARD = "LVCMOS18";        ## KEY4
+NET p1_in<4>    IOSTANDARD = "LVCMOS18";        ## KEY5
+NET p1_in<5>    IOSTANDARD = "LVCMOS18";        ## KEY6
+NET p1_in<6>    IOSTANDARD = "LVCMOS18";        ## KEY7
+NET p1_in<7>    IOSTANDARD = "LVCMOS18";        ## KEY8
